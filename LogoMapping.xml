@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+<!-- ******************************************************************** -->
+	<TV>
+		<Channel>
+			<Item Name="Ch 20">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Channel 20.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ch 14 10">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Channel Ten.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ch 23">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Israeli Educational Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ch 11 HD Kan">
+				<Provider>Idan+</Provider>
+			</Item>
+			<Item Name="Ch 11 Kan">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Kan 11.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kan Hinuchit">
+				<Provider>Full Name (IL)</Provider>
+			</Item>
+			<File>Kan Hinuchit.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ch 12 Keshet">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Keshet 12.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ch 99">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Knesset Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ch 33 Makan HD">
+				<Provider>Idan+</Provider>
+			</Item>
+			<Item Name="Ch 33 Makan">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Makan 33.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ch 24">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Music 24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ch 13 Reshet">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Reshet 13.png</File>
+		</Channel>
+	</TV>
+<!-- ******************************************************************** -->
+	<Radio>
+		<Channel>
+			<Item Name="Galatz">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Galei Tzahal.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Galgalatz">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Galgalatz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kan88">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Kan 88.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bet">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Kan Bet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Gimmel">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Kan Gimel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Musica">
+				<Provider>Idan+</Provider>
+			</Item>
+			<FileKan Kol HaMusica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Makan">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Kan Makan.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Moreshet">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Kan Moreshet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Reka">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Kan Reka.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tarbut">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Kan Tarbut.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Perove">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Perove Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kol Barama">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Radio Kol Barama.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kol Hai Music">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Radio Kol Hai Music.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kol Hai">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Radio Kol Chai.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lev HaMdina">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Radio Lev Hamedina.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radios">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Radius 100FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Classical">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>The Second Authority for Television and Radio.png</File>
+		</Channel>
+	</Radio>
+</Mappings>
