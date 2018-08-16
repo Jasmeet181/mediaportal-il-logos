@@ -15,12 +15,6 @@
 			<File>Channel Ten.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ch 23">
-				<Provider>Idan+</Provider>
-			</Item>
-			<File>Israeli Educational Television.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Ch 11 HD Kan">
 				<Provider>Idan+</Provider>
 			</Item>
@@ -30,8 +24,8 @@
 			<File>Kan 11.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kan Hinuchit">
-				<Provider>Full Name (IL)</Provider>
+			<Item Name="Ch 23">
+				<Provider>Idan+</Provider>
 			</Item>
 			<File>Kan Hinuchit.png</File>
 		</Channel>
