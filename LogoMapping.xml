@@ -3,16 +3,16 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+			<Item Name="Ch 13">
+				<Provider>Idan+</Provider>
+			</Item>
+			<File>Channel 13.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Ch 20">
 				<Provider>Idan+</Provider>
 			</Item>
 			<File>Channel 20.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ch 14 10">
-				<Provider>Idan+</Provider>
-			</Item>
-			<File>Channel Ten.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ch 11 HD Kan">
@@ -55,12 +55,6 @@
 				<Provider>Idan+</Provider>
 			</Item>
 			<File>Music 24.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ch 13 Reshet">
-				<Provider>Idan+</Provider>
-			</Item>
-			<File>Reshet 13.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
