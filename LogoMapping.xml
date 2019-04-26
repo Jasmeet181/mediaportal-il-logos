@@ -93,7 +93,7 @@
 			<Item Name="Musica">
 				<Provider>Idan+</Provider>
 			</Item>
-			<FileKan Kol HaMusica.png</File>
+			<File>Kan Kol HaMusica.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Makan">
