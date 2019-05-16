@@ -50,12 +50,6 @@
 			</Item>
 			<File>Makan 33.png</File>
 		</Channel>
-		<Channel>
-			<Item Name="Ch 24">
-				<Provider>Idan+</Provider>
-			</Item>
-			<File>Music 24.png</File>
-		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
 	<Radio>
